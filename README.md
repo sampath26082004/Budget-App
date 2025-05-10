@@ -1,10 +1,3 @@
-# Budget-App
-The Budget Management App is a simple web application designed to help users track and manage their finances by setting budgets, recording expenses, and keeping track of their balance in real-time.
-
-Sure! Here's a **README** file that you can use for your **Budget Management App** project:
-
----
-
 # Budget Management App
 
 ## Description
@@ -30,24 +23,6 @@ This application is ideal for personal finance management and encourages better 
 * **Frontend**: HTML, CSS, JavaScript
 * **Libraries**: None (Pure frontend application, no backend required)
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/budget-management-app.git
-   ```
-
-2. **Navigate to the project folder**:
-
-   ```bash
-   cd budget-management-app
-   ```
-
-3. **Open the `index.html` file** in your browser:
-   Simply double-click the `index.html` file or open it with any modern web browser (Chrome, Firefox, etc.) to start using the app.
 
 ## Usage
 
